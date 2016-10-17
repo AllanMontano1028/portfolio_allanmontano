@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+ <head>
+	   <meta charset="utf-8">
+	   <title>Web Portfolio: Allan Montano</title>
+     <link type="tex/css"rel
+ </head>
+ <style>
+    body{
+      font-size: 1em;
+      font-weight: normal;
+      font-family: Arial, sans-serif;
+      color: #000000;
+      text-align: left;
+    }
+    h1 {
+      font-size: 1.8em;
+      font-weight: bold;
+      color: #0000ff; /* blue */
+      text-align: center;
+    }
+
+    h2 {
+
+    }
+
+    p {
+
+    }
+ </style>

@@ -1,30 +1,26 @@
-<!DOCTYPE html>
-<html>
- <head>
-	   <meta charset="utf-8">
-	   <title>Web Portfolio: Allan Montano</title>
-     <link type="tex/css"rel
- </head>
- <style>
-    body{
-      font-size: 1em;
-      font-weight: normal;
-      font-family: Arial, sans-serif;
-      color: #000000;
-      text-align: left;
-    }
-    h1 {
-      font-size: 1.8em;
-      font-weight: bold;
-      color: #0000ff; /* blue */
-      text-align: center;
-    }
+	<a href="#main">Skip to main content</a>
+  h1 {
+    font-size: 1.8em;
+    font-family: Raven Scream;
+    font-weight: bold;
+    color: #0000ff; /* blue */
+    text-align: center;
+  }
 
-    h2 {
+<main id="main">
 
-    }
-
-    p {
-
-    }
- </style>
+  <li>Navigation
+    <ul>
+      <li><a href='index.html'>Home</a></li>
+      <li><a href='Color.html'>Color</a></li>
+      <li><a href='typography.html'>Typography</a></li>
+      <li><a href='design.html'>Design Elements</a></li>
+      <li><a href='graphics.html'>Graphics</a></li>
+      <li><a href='javascript.html'>Javascript</a></li>
+      <li><a href='usability.html'>Usability</a></li>
+      <li><a href='publishing.html'>Publishing</a></li>
+    </ul>
+  </li>
+</ul>
+</nav>
+</main>

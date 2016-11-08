@@ -15,7 +15,7 @@
 			text-align: left;
 			margin: 0 auto;
 			max-width: 80%;
-			background-color:	#FB00F3;
+			background-color:	#FB00F3; /*magenta*/
 			line-height:
 		}
 	h1 {
@@ -23,5 +23,17 @@
 		font-size: 1.8em;
 		font-weight: bold;
 		color: #68FF00; /* bright green*/
-
+		text-align: center;
 	}
+h2 {
+	font-family: "Palatino Linotype", cursive, sans-serif;
+	color: #00FFFF; /*spanish sky blue*/
+}
+h3 {
+	color: 	#7C0FDB; /*french violet*/
+}
+
+p {
+		font-family: "Palatino Linotype", cursive, sans-serif;
+		color: 
+}

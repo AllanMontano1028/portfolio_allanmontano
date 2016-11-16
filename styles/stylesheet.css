@@ -11,12 +11,12 @@
 		body {
 			font-size: 1em;
 			font-family: normal; arial; sans-serif;
-			color:#FFFF00; /*yellow*/
+			font-weight: normal;
+			padding: 4em; 1em;
 			text-align: left;
 			margin: 0 auto;
 			max-width: 80%;
-			background-color:	#FB00F3; /*magenta*/
-			line-height:
+			line-height: 1.5;
 		}
 	h1 {
 		font-family: "Palatino Linotype", cursive, sans-serif;
@@ -35,5 +35,5 @@ h3 {
 
 p {
 		font-family: "Palatino Linotype", cursive, sans-serif;
-		color: 
+		color: #7C0FDB;  /*french violet*/
 }

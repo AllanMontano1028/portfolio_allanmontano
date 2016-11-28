@@ -1,3 +1,31 @@
+/*** KERNING & LEADING ASSIGNMENT STYLES ***/
+
+/* Do not change this style */
+.rectangle {
+  font-family: "Helvetica";
+  font-size: 1em;
+  background-color: white;
+  border: solid 1px black;
+  height: 300px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+#kerning {
+  /* Use the letter-spacing property to change the kerning on the text to fill the div below
+
+  http://www.w3schools.com/cssref/pr_text_letter-spacing.asp
+  */
+  letter-spacing: 2.8px;
+}
+
+#leading {
+  /* Use the line-height property to change the leading on the text to fill the div below
+
+  http://www.w3schools.com/cssref/pr_dim_line-height.asp
+  */
+  line-height: 276%
+}
 /*** TEXT ALIGNMENT ASSIGNMENT STYLES ***/
 
 /* Do not change this style */
@@ -9,25 +37,26 @@
 #left_align {
   /* Use the text-align property to left-align the text
    http://www.w3schools.com/cssref/pr_text_text-align.asp */
+   text-align: left;
 }
 
 #right_align {
   /* Use the text-align property to right-align the text
    http://www.w3schools.com/cssref/pr_text_text-align.asp */
+   text-align: right;
 }
 
 #justify {
   /* Use the text-align property to justify the text
    http://www.w3schools.com/cssref/pr_text_text-align.asp */
+   text-align: justify;
 }
 
 #center {
   /* Use the text-align property to justify the text
    http://www.w3schools.com/cssref/pr_text_text-align.asp */
+   text-align: center;
 }
-
-
-
 /*** HIERARCHY ASSIGNMENT STYLES ***/
 
 /* Do not change this style */
@@ -49,30 +78,47 @@ section p {
 }
 
 /* Change this style */
-#biggerText {
+/* #biggerText {
 
-}
+} */
 
 /* Change this style */
-.indent {
+/* .indent {
 
+} */
+
+#title {
+  font-size: 2em;
 }
 
-/*
-  POSTER TYPOGRAPHY ASSIGNMENT CRITERIA:
-  * Use two different typefaces (a serif and a sans-serif)
-  * Use at least three different font-sizes
-  * Use a color that contrasts with the background image
-      * Recommended to use the text-shadow property to increase contrast
-  * Use a hierarchy that emphasizes the most important words
-      * Font size, font weight, logical grouping, orientation
-  */
-
-#grandCanyon {
-  background-image: url(../images/grand_canyon.jpg);
-  background-size: cover;
-  background-position: center center;
-  height: 500px;
-  width: 800px;
-  margin: 0 auto;
+#typ {
+  color: grey;
 }
+
+#paul {
+  font-size: 3em;
+}
+
+<h3>Poster Assignment</h3>
+<div id="grandCanyon">
+  #grandCanyon{
+    background-image: https://drive.google.com/thumbnail?id=0B_KujOKpDbPkRmtnZWVFZEwySHc&authuser=0&sz=w1264-h918
+    background-size Cover;
+    background-position: center center;
+    height: 500px;
+    width: 800px;
+    margin: 0 auto;
+  }
+
+</div>
+
+
+
+
+
+</p>
+</div>
+
+  </main>
+</body>
+</html>

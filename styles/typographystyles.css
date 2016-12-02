@@ -91,7 +91,7 @@ section p {
   font-size: 2em;
 }
 
-#typ {
+#type {
   color: grey;
 }
 
@@ -99,10 +99,44 @@ section p {
   font-size: 3em;
 }
 
+
+/* Place this at the very top of your typographystyles.css document */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
+
+/* Place these styles towards the bottom of your typographystyles.css document */
+
+.weights {
+  font-family: "Roboto";
+  font-size: 32px;
+}
+
+#weight1 {
+  /* Change the font-weight property to give it a thin-weight */
+
+}
+
+#weight2 {
+  /* Change the font-weight property to give it a light-weight */
+}
+
+#weight3 {
+  /* Change the font-weight property to give it a regular-weight */
+}
+
+#weight4 {
+  /* Change the font-weight property to give it a bold-weight */
+}
+
+#weight5 {
+  /* Change the font-weight property to give it a ultra-bold-weight */
+}
+
+
 <h3>Poster Assignment</h3>
 <div id="grandCanyon">
   #grandCanyon{
-    background-image: https://drive.google.com/thumbnail?id=0B_KujOKpDbPkRmtnZWVFZEwySHc&authuser=0&sz=w1264-h918
+    background-image: "https://drive.google.com/thumbnail?id=0B_KujOKpDbPkRmtnZWVFZEwySHc&authuser=0&sz=w1266-h917"
     background-size Cover;
     background-position: center center;
     height: 500px;

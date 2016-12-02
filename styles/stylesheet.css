@@ -13,23 +13,23 @@
 			font-family: "Arial"; sans-serif;
 			font-weight: normal;
 			padding: 4em; 1em;
-			color: white;
+			color: black;
 			text-align: left;
 			margin: 0 auto;
 			max-width: 80%;
-			background-color: #7C0FDB;
+			background-color: #00FFFF;
 			line-height: 1.5;
 		}
 	h1 {
 		font-family: "Palatino Linotype", cursive, sans-serif;
 		font-size: 1.8em;
 		font-weight: bold;
-		color: black;
+		color: blue;
 		text-align: center;
 	}
 h2 {
 	font-family: "Palatino Linotype", cursive, sans-serif;
-	color: #00FFFF;
+	color: #7C0FDB;
 }
 h3 {
 	color: 	#7C0FDB;
@@ -37,5 +37,5 @@ h3 {
 
 p {
 		font-family: "Palatino Linotype", cursive, sans-serif;
-		color: #68FF00;
+		color:E21219;
 }

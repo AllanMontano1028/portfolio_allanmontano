@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
 /*** KERNING & LEADING ASSIGNMENT STYLES ***/
 
 /* Do not change this style */
@@ -113,46 +114,45 @@ section p {
 
 #weight1 {
   /* Change the font-weight property to give it a thin-weight */
+  font-weight: 200;
 
 }
 
 #weight2 {
   /* Change the font-weight property to give it a light-weight */
+  font-weight: 300;
 }
 
 #weight3 {
   /* Change the font-weight property to give it a regular-weight */
+  font-weight: 400;
 }
 
 #weight4 {
   /* Change the font-weight property to give it a bold-weight */
+  font-weight: 500;
 }
 
 #weight5 {
   /* Change the font-weight property to give it a ultra-bold-weight */
+  font-weight: 600;
 }
 
+/*
+  POSTER TYPOGRAPHY ASSIGNMENT CRITERIA:
+  * Use two different typefaces (a serif and a sans-serif)
+  * Use at least three different font-sizes
+  * Use a color that contrasts with the background image
+      * Recommended to use the text-shadow property to increase contrast
+  * Use a hierarchy that emphasizes the most important words
+      * Font size, font weight, logical grouping, orientation
+  */
 
-<h3>Poster Assignment</h3>
-<div id="grandCanyon">
-  #grandCanyon{
-    background-image: "https://drive.google.com/thumbnail?id=0B_KujOKpDbPkRmtnZWVFZEwySHc&authuser=0&sz=w1266-h917"
-    background-size Cover;
-    background-position: center center;
-    height: 500px;
-    width: 800px;
-    margin: 0 auto;
-  }
-
-</div>
-
-
-
-
-
-</p>
-</div>
-
-  </main>
-</body>
-</html>
+#grandCanyon {
+  background-image: url("../images/grand_canyon.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 500px;
+  width: 800px;
+  margin: 0 auto;
+}

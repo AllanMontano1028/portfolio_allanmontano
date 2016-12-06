@@ -1,41 +1,39 @@
-@import url(<link href="https://fonts.googleapis.com/css?family=Coming+Soon|Open+Sans+Condensed:300" rel="stylesheet">)
-
- {
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon|Open+Sans+Condensed:300');
+/*
   font-family: 'Coming Soon', cursive;
    font-size: 1em;
    text-align: center;
    line-height: 100%;
-   letter-spacing: 6px;
+   letter-spacing: 6em;
    background-color: white;
-   height: 300px;
-   width: 800px;
+   height: 300em;
+   width: 800em;
    margin: 0 auto;
- }
+ }*/
 
-#Heathens {
+/*#Heathens {
     font-family: 'Coming Soon', cursive;
     text-align: center;
     font-size: 2.5em;
-    padding-top:  0;
-    padding-bottom: 0;
     text-shadow: 2em 2em white;
-}
+}*/
 
-#Twenty One Pilots {
+#artist {
     font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 1.3em;
+    font-size: 2.3em;
+    text-align: center;
     font-weight: bold;
     padding-top: 2%;
     margin: 30px auto;
-
 }
 
 #lyrics {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Coming Soon', sans-serif;
+    font-size: 1.2em;
+    color: #ff0000;
+    font-weight: 600;
     word-spacing: 1em;
-    width: 50%;
-    margin: 50em auto;
-    border-top: 1em dashed black;
-    border-bottom: 1em dashed black;
-
+    width: 65%;
+    margin: 50px auto;
+    line-height: 200%;
 }

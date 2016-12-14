@@ -9,6 +9,15 @@ body{
   margin: 0 auto;
 }
 
-links{
+ahref{
+color: #e81c4f;
+font-size: 1.1em;
+font-family: "Oswald";
+letter-spacing: 1px;
+text-decoration: none;
+}
 
+h1{
+  font-family: "Oswald";
+  text-align: center;
 }

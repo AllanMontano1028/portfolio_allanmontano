@@ -34,7 +34,7 @@ h2{
 #aboutmePhoto{
 margin: 0 auto;
 border-radius: 10px;
-max-width: 500px;
+width: 500px;
 display: block;
 }
 

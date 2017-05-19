@@ -1,0 +1,10 @@
+#grandCanyon {
+  background-image: url("../images/grand_canyon.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 500px;
+  width: 800px;
+  font-size: 32px
+  font-weight: 400;
+  margin: 0 auto;
+}

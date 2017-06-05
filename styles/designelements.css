@@ -1,0 +1,80 @@
+element.style {
+}
+main.css:185
+header h1 {
+    font-size: 3.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 100px;
+    line-height: 165px;
+    margin-right: .5em;
+    float: left;
+    padding-left: 110px;
+    background:  no-repeat left center;
+    
+    color: #fff;
+}
+main.css:72
+html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h3, h4, h5, h6, p, blockquote, address, time, span, em, strong, img, ol, ul, li, figure, canvas, video, th, td, tr {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font: inherit;
+}
+user agent stylesheet
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+Inherited from hgroup
+main.css:72
+html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h3, h4, h5, h6, p, blockquote, address, time, span, em, strong, img, ol, ul, li, figure, canvas, video, th, td, tr {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font: inherit;
+}
+Inherited from header#pageHeader
+main.css:72
+html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h3, h4, h5, h6, p, blockquote, address, time, span, em, strong, img, ol, ul, li, figure, canvas, video, th, td, tr {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font: inherit;
+}
+Inherited from body
+main.css:120
+body {
+    font: 100% Cantarell, Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    position: relative;
+    background: #fff;
+    color: rgb(76, 67, 65);
+    font-weight: normal;
+    font-style: normal;
+}
+main.css:72
+html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h3, h4, h5, h6, p, blockquote, address, time, span, em, strong, img, ol, ul, li, figure, canvas, video, th, td, tr {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font: inherit;
+}
+Inherited from html
+main.css:72
+html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h3, h4, h5, h6, p, blockquote, address, time, span, em, strong, img, ol, ul, li, figure, canvas, video, th, td, tr {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font: inherit;
+}
